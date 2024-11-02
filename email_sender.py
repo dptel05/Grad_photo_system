@@ -9,8 +9,8 @@ CSV_FILE = 'student_emails.csv'
 OUTPUT_DIR = "tagged_photos/"
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 465
-EMAIL_ADDRESS = 'dhruvpt3408@gmail.com'
-EMAIL_PASSWORD = 'xjvy ykpn kwch gtre'
+EMAIL_ADDRESS = 'email'
+EMAIL_PASSWORD = 'passowrd'
 
 def send_photos():
     # Setup logging
